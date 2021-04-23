@@ -1,9 +1,10 @@
 # photo_studio
-Parkash Studio is photography studio website that provides various services like Wedding Planning, Photography, Event Management, Designing Consultancy, fashion stylist, Modeling.
+Parkash Studio is a photography studio website that provides various services like Wedding Planning, Photography, Event Management, Designing Consultancy, fashion stylist, Modeling.
 
 **------------------Technology Used-------------------**
-html
-css
+
+HTML
+CSS
 Bootstrap
 
 Contact me
